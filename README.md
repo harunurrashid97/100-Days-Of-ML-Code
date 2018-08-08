@@ -6,6 +6,6 @@ I nervously accepted this challenge in addition to working full time in the 2018
 * [Article](https://hackernoon.com/10-ways-to-make-python-a-dangerous-language-for-data-science-6b88566ac040)
 * [Repository](http://bit.ly/2KC7EvY)
  
- Day 2 - Aug 8 | [Exploratory Data Analysis(EDA)]()
+ Day 2 - Aug 8 | [Exploratory Data Analysis(EDA)](https://www.linkedin.com/feed/update/urn:li:activity:6432867247085195264)
  * [Article](https://hackernoon.com/overview-of-exploratory-data-analysis-with-python-6213e105b00b)
  * [Repository](http://bit.ly/2KytuAo)
