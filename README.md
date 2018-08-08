@@ -17,7 +17,10 @@ You can follow me on [@Medium](https://medium.com/@harunshimanto)for interesting
 
 **Link of Work**: [Article](https://hackernoon.com/10-ways-to-make-python-a-dangerous-language-for-data-science-6b88566ac040) => [code](http://bit.ly/2KC7EvY)
  
-## Day 2 - Aug 8 , 2018 | [Exploratory Data Analysis(EDA)](https://www.linkedin.com/feed/update/urn:li:activity:6432869901274312704)
+add-license-1
+## Day 2 : Aug 8 , 2018 | [Exploratory Data Analysis(EDA)](https://www.linkedin.com/feed/update/urn:li:activity:6432869901274312704)
+## Day 2 : Aug 8 , 2018 | [Exploratory Data Analysis(EDA)](https://www.linkedin.com/feed/update/urn:li:activity:6432869901274312704)
+master
 
 **Today's Progress** : Today I've spent many hours exploring Exploratory data analysis.It plays a role in the work of data science and machine learning.
 
