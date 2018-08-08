@@ -3,7 +3,7 @@ The creation of this repository was inspired by [Siraj Raval's challenge](https:
 I nervously accepted this challenge in addition to working full time in the 2018 summer semester. I will use this repository to store code, jupyter notebook examples, and thought processes.
 
 You can follow me on [@Medium](https://medium.com/@harunshimanto)for interesting blog articles.
-## Day 0 : Aug 5 to 6 , 2018 | [Challenge Starting peparation ]
+## Day 0 : Aug 5 to 6 , 2018 | Challenge Starting peparation 
 
 **Today's Progress** : I have setup all the things I needed to complete this challenge and also completed chosing the projects I will work on .
 
@@ -17,7 +17,7 @@ You can follow me on [@Medium](https://medium.com/@harunshimanto)for interesting
 
 **Link of Work**: [Article](https://hackernoon.com/10-ways-to-make-python-a-dangerous-language-for-data-science-6b88566ac040) => [code](http://bit.ly/2KC7EvY)
  
-## Day 2 - Aug 8 | [Exploratory Data Analysis(EDA)](https://www.linkedin.com/feed/update/urn:li:activity:6432869901274312704)
+## Day 2 : Aug 8 | [Exploratory Data Analysis(EDA)](https://www.linkedin.com/feed/update/urn:li:activity:6432869901274312704)
 
 **Today's Progress** : Today I've spent many hours exploring Exploratory data analysis.It plays a role in the work of data science and machine learning.
 
