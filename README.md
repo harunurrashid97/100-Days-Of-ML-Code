@@ -1,6 +1,9 @@
 # 100 Days Of ML Code
-![100 Days of ML Code challenge](https://github.com/harunshimanto/100-Days-Of-ML-Code/InfoGraphs/Github Banner.png)
+
+![100 Days of ML Code challenge](https://github.com/harunshimanto/100-Days-Of-ML-Code/InfoGraphs/GithubBanner.png)
+
 :point_right: This Banner Design my buddy [Sheikh Anikul Islam Hani](https://github.com/SheikhAnikulIslam):octocat:.He is awesome person.:ok_hand: :bust_in_silhouette:
+
 The creation of this repository was inspired by [Siraj Raval's challenge](https://www.linkedin.com/feed/update/urn:li:activity:6420525903968825344/) to code machine learning for at least an hour everyday for 100 days.
 I nervously accepted this challenge in addition to working full time in the 2018 summer semester. I will use this repository to store code, jupyter notebook examples, and thought processes.
 
