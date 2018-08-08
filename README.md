@@ -4,4 +4,4 @@ I nervously accepted this challenge in addition to working full time in the 2018
 ## Topics Explored:
  Day 1 - Aug 7 | [Crash course of Data Science and ML with Python](https://www.linkedin.com/feed/update/urn:li:activity:6432532718810169344/)
 * [Article](https://hackernoon.com/10-ways-to-make-python-a-dangerous-language-for-data-science-6b88566ac040)
-* ![Repository](https://github.com/harunshimanto/100DaysOfMLCode/blob/master/Crash course of Data Science and ML with Python/Python for Data Science and ML - Part 1.ipynb)
+* ![Repository](http://bit.ly/2KC7EvY)
