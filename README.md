@@ -2,7 +2,7 @@
 
 ![100 Days of ML Code challenge](InfoGraphs/GithubBanner.png) 
 
-:point_up: This Banner Design my buddy [Sheikh Anikul Islam Hani](https://github.com/SheikhAnikulIslam):octocat:.He is awesome person.:ok_hand: :bust_in_silhouette:
+:point_up: This Banner Design by my buddy [Sheikh Anikul Islam Hani](https://github.com/SheikhAnikulIslam):octocat:.He is awesome person.:ok_hand: :bust_in_silhouette:
 
 The creation of this repository was inspired by [Siraj Raval's challenge](https://www.linkedin.com/feed/update/urn:li:activity:6420525903968825344/) to code machine learning for at least an hour everyday for 100 days.
 I nervously accepted this challenge in addition to working full time in the 2018 summer semester. I will use this repository to store code, jupyter notebook examples, and thought processes.
