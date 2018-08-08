@@ -1,6 +1,6 @@
 # 100 Days Of ML Code
 
-![100 Days of ML Code challenge](https://github.com/harunshimanto/100-Days-Of-ML-Code/InfoGraphs/GithubBanner.png) 
+![100 Days of ML Code challenge](/100-Days-Of-ML-Code/InfoGraphs/GithubBanner.png) 
 
 :point_right: This Banner Design my buddy [Sheikh Anikul Islam Hani](https://github.com/SheikhAnikulIslam):octocat:.He is awesome person.:ok_hand: :bust_in_silhouette:
 
