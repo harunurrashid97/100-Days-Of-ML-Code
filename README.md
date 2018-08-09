@@ -36,4 +36,4 @@ You can follow me on [@Medium](https://medium.com/@harunshimanto)for interesting
 
 **Today's Progress** : Today I've spent many hours exploring Data Preprocessing.Check Out :point_up: this Amazing Infographic I made which gives a complete step by step guide to data preprocessing.
 
-**Link of Work**: [Code](http://bit.ly/2KDkTfT)
+**Link of Work**: [Article](http://bit.ly/2MxsD4M) => [Code](http://bit.ly/2KDkTfT)
