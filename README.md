@@ -29,3 +29,11 @@ You can follow me on [@Medium](https://medium.com/@harunshimanto)for interesting
 **Thoughts** : I am giving a brief intro of Exploratory data analysis(EDA) in Python with help of pandas and matplotlib.And I am using a dataset on Super Store's for this.
 
 **Link of Work**: [Article](https://hackernoon.com/overview-of-exploratory-data-analysis-with-python-6213e105b00b) => [code](http://bit.ly/2KytuAo)
+
+## Day 3 : Aug 9 , 2018 | [Data PreProcessing](https://www.linkedin.com/feed/update/urn:li:activity:6433216669149159424)
+
+![Data Prepocessing](InfoGraphs/Day3.png)
+
+**Today's Progress** : Today I've spent many hours exploring Data Preprocessing.Check Out :point_up: this Amazing Infographic I made which gives a complete step by step guide to data preprocessing.
+
+**Link of Work**: [Code](Data_Preprocessing/Day 3_Data_PreProcessing.md)
