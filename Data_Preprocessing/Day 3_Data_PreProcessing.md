@@ -15,7 +15,7 @@ import pandas as pd
 ```
 ## Step 2: Importing dataset
 ```python
-dataset = pd.read_csv('Data.csv')
+dataset = pd.read_csv('ShopSellData.csv')
 X = dataset.iloc[ : , :-1].values
 Y = dataset.iloc[ : , 3].values
 ```
