@@ -1,1 +1,1 @@
-**Each Day Infograph **
+Each Day Infograph
