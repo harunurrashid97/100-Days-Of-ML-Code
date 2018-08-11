@@ -42,7 +42,6 @@ You can follow me on [@Medium](https://medium.com/@harunshimanto)for interesting
 
 ![Simple Linear Regression](InfoGraphs/Day4.png)
 
-
 **Today's Progress** : Today I've spent many hours exploring on Simple Linear Regression, check it out. I think infographics are a worthy replacement of lengthy articles on these topics. 
 
 
