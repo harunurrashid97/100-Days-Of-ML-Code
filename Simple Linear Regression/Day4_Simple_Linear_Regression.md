@@ -1,7 +1,7 @@
 # Simple Linear Regression
 
 
-
+![Simple Linear Regression](InfoGraphs/Day4.png)
 
 
 # Step 1: Data Preprocessing
