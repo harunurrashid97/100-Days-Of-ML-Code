@@ -1,7 +1,7 @@
 # Simple Linear Regression
 
 
-![Simple Linear Regression](100-Days-Of-ML-Code/InfoGraphs/Day4.png)
+![Simple Linear Regression](InfoGraphs/Day4.png)
 
 
 # Step 1: Data Preprocessing
