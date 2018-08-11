@@ -37,3 +37,13 @@ You can follow me on [@Medium](https://medium.com/@harunshimanto)for interesting
 **Today's Progress** : Today I've spent many hours exploring Data Preprocessing.Check Out :point_up: this Amazing Infographic I made which gives a complete step by step guide to data preprocessing.
 
 **Link of Work**: [Article](http://bit.ly/2MxsD4M) => [Code](http://bit.ly/2KDkTfT)
+
+## Day 4 : Aug 12 , 2018 | [Simple Linear Regression](https://www.linkedin.com/feed/update/urn:li:activity:6434122254916902912)
+
+![Simple Linear Regression](InfoGraphs/Day4.png)
+
+
+**Today's Progress** : Today I've spent many hours exploring on Simple Linear Regression, check it out. I think infographics are a worthy replacement of lengthy articles on these topics. 
+
+
+**Link of Work**: [Article](http://bit.ly/2MbIzO4) => [Code]()
