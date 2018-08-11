@@ -1,7 +1,10 @@
 # Simple Linear Regression
 
 
-![Simple Linear Regression](InfoGraphs/Day4.png)
+<p align="center">
+  <img src="https://github.com/harunshimanto/100-Days-Of-ML-Code/blob/master/InfoGraphs/Day4.png">
+</p>
+
 
 
 # Step 1: Data Preprocessing
