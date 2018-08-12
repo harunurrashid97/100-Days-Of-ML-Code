@@ -45,4 +45,4 @@ You can follow me on [@Medium](https://medium.com/@harunshimanto)for interesting
 **Today's Progress** : Today I've spent many hours exploring on Simple Linear Regression, check it out. I think infographics are a worthy replacement of lengthy articles on these topics. 
 
 
-**Link of Work**: [Article](http://bit.ly/2MbIzO4) => [Code]("http://bit.ly/2MjvQrS")
+**Link of Work**: [Article](http://bit.ly/2MbIzO4) => [Code](http://bit.ly/2MjvQrS)
