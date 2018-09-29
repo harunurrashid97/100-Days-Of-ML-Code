@@ -2,8 +2,6 @@
 <p align="center">
   <img src="https://github.com/harunshimanto/100-Days-Of-ML-Code/blob/master/InfoGraphs/Day5.png">
 </p>
-
-https://github.com/Avik-Jain/100-Days-Of-ML-Code/blob/master/Info-graphs/Day%2023.jpg
 ### Importing the libraries
 ```python
 import numpy as np
