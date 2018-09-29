@@ -1,7 +1,9 @@
 # Decision Tree Classification
+
 <p align="center">
   <img src="https://github.com/harunshimanto/100-Days-Of-ML-Code/blob/master/InfoGraphs/Day5.png">
 </p>
+
 ### Importing the libraries
 ```python
 import numpy as np
