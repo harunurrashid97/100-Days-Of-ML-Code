@@ -58,7 +58,7 @@ You can follow me on [@Medium](https://medium.com/@harunshimanto)for interesting
 
 ## Day 6 : Jan 2 , 2019 | [Summarization With Wine Reviews Using spaCy](https://twitter.com/Shimanto47/status/1080707882197278722)
 
-![Text Summarization](https://goo.gl/YNEaFW)
+![Text Summarization](https://i.imgur.com/DRBrg5m.gif)
 
 **Today's Progress** : Today I've spent many hours exploring on Text summarization on NLP.
 
