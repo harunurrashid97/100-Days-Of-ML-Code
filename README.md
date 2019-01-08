@@ -58,11 +58,11 @@ You can follow me on [@Medium](https://medium.com/@harunshimanto)for interesting
 
 ## Day 6 : Jan 2 , 2019 | [Summarization With Wine Reviews Using spaCy](https://twitter.com/Shimanto47/status/1080707882197278722)
 
-![Text Summarization](Text Summarization/summarization.gif)
+![Text Summarization](https://goo.gl/YNEaFW)
 
 **Today's Progress** : Today I've spent many hours exploring on Text summarization on NLP.
 
-**Link of Work**: [Article](https://goo.gl/Gr7kcG) => [code](Text Summarization/summarization-with-wine-reviews-using-spacy.ipynb)
+**Link of Work**: [Article](https://goo.gl/Gr7kcG) => [code](https://goo.gl/rZatDk)
 
 # Contributing
 [![](https://sourcerer.io/fame/harunshimanto/harunshimanto/100-Days-Of-ML-Code/images/0)](https://sourcerer.io/fame/harunshimanto/harunshimanto/100-Days-Of-ML-Code/links/0)[![](https://sourcerer.io/fame/harunshimanto/harunshimanto/100-Days-Of-ML-Code/images/1)](https://sourcerer.io/fame/harunshimanto/harunshimanto/100-Days-Of-ML-Code/links/1)[![](https://sourcerer.io/fame/harunshimanto/harunshimanto/100-Days-Of-ML-Code/images/2)](https://sourcerer.io/fame/harunshimanto/harunshimanto/100-Days-Of-ML-Code/links/2)[![](https://sourcerer.io/fame/harunshimanto/harunshimanto/100-Days-Of-ML-Code/images/3)](https://sourcerer.io/fame/harunshimanto/harunshimanto/100-Days-Of-ML-Code/links/3)[![](https://sourcerer.io/fame/harunshimanto/harunshimanto/100-Days-Of-ML-Code/images/4)](https://sourcerer.io/fame/harunshimanto/harunshimanto/100-Days-Of-ML-Code/links/4)[![](https://sourcerer.io/fame/harunshimanto/harunshimanto/100-Days-Of-ML-Code/images/5)](https://sourcerer.io/fame/harunshimanto/harunshimanto/100-Days-Of-ML-Code/links/5)[![](https://sourcerer.io/fame/harunshimanto/harunshimanto/100-Days-Of-ML-Code/images/6)](https://sourcerer.io/fame/harunshimanto/harunshimanto/100-Days-Of-ML-Code/links/6)[![](https://sourcerer.io/fame/harunshimanto/harunshimanto/100-Days-Of-ML-Code/images/7)](https://sourcerer.io/fame/harunshimanto/harunshimanto/100-Days-Of-ML-Code/links/7)
