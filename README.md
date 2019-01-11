@@ -64,7 +64,7 @@ You can follow me on [@Medium](https://medium.com/@harunshimanto)for interesting
 
 **Link of Work**: [Article](https://goo.gl/Gr7kcG) => [code](https://goo.gl/rZatDk)
 
-## Day 7 : Jan 11 , 2019 | [Artificial Neural Networks (ANN)]()
+## Day 7 : Jan 11 , 2019 | [Artificial Neural Networks (ANN)](https://twitter.com/Shimanto47/status/1083786783911890944)
 
 ![ANN](InfoGraphs/ANN-Day7.jpg)
 
