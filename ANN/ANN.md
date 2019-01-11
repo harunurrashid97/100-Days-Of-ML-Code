@@ -1,7 +1,7 @@
 
 # Artificial Neural Network
 
-![ANN](InfoGraphs/ANN-Day7.jpg)
+![ANN](ANN-Day7.jpg)
 
 # Importing the libraries
 import numpy as np
