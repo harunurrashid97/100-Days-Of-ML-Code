@@ -74,7 +74,9 @@ You can follow me on [@Medium](https://medium.com/@harunshimanto)for interesting
 
 ## Day 8 : Jan 17 , 2019 | [Naive Bayes](https://www.linkedin.com/feed/update/urn:li:activity:6491368088909504512)
 
-![Naive Bayes](https://goo.gl/DoMNVS)
+<p align="center">
+  <img src="https://github.com/harunshimanto/100-Days-Of-ML-Code/blob/master/InfoGraphs/Naive Bayes.png">
+</p>
 
 **Today's Progress** : Today I've spent many hours exploring on Naive Bayes (NB).
 
