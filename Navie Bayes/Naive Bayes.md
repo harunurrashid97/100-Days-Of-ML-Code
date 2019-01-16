@@ -1,6 +1,6 @@
 # Naive Bayes
 
-![Naive Bayes](Naive Bayes.png)
+![Naive Bayes](100-Days-Of-ML-Code/Navie Bayes/Naive Bayes.png)
 
 # Importing the libraries
 ```python
