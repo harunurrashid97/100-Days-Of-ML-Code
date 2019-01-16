@@ -1,6 +1,8 @@
 # Naive Bayes
 
-![Naive Bayes](Naive Bayes.png)
+<p align="center">
+  <img src="https://github.com/harunshimanto/100-Days-Of-ML-Code/blob/master/InfoGraphs/Naive Bayes.png">
+</p>
 
 # Importing the libraries
 ```python
