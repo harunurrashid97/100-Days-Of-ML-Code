@@ -72,9 +72,9 @@ You can follow me on [@Medium](https://medium.com/@harunshimanto)for interesting
 
 **Link of Work**: [Article](https://goo.gl/E2mTx1) => [code](https://goo.gl/xSJZCZ)
 
-## Day 8 : Jan 17 , 2019 | [Naive Bayes]()
+## Day 8 : Jan 17 , 2019 | [Naive Bayes](https://www.linkedin.com/feed/update/urn:li:activity:6491368088909504512)
 
-![Naive Bayes](InfoGraphs/Naive Bayes.png)
+![Naive Bayes](https://goo.gl/DoMNVS)
 
 **Today's Progress** : Today I've spent many hours exploring on Naive Bayes (NB).
 
