@@ -1,4 +1,4 @@
-#Naive Bayes
+# Naive Bayes
 ![Naive Bayes](Naive Bayes.png)
 # Importing the libraries
 ```python
