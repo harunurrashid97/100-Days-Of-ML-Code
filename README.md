@@ -72,5 +72,13 @@ You can follow me on [@Medium](https://medium.com/@harunshimanto)for interesting
 
 **Link of Work**: [Article](https://goo.gl/E2mTx1) => [code](https://goo.gl/xSJZCZ)
 
+## Day 8 : Jan 17 , 2019 | [Naive Bayes]()
+
+![Naive Bayes](InfoGraphs/Naive Bayes.png)
+
+**Today's Progress** : Today I've spent many hours exploring on Naive Bayes (NB).
+
+**Link of Work**: [Article](https://goo.gl/YhgWKm) => [code](https://goo.gl/2KjZkC)
+
 # Contributing
 [![](https://sourcerer.io/fame/harunshimanto/harunshimanto/100-Days-Of-ML-Code/images/0)](https://sourcerer.io/fame/harunshimanto/harunshimanto/100-Days-Of-ML-Code/links/0)[![](https://sourcerer.io/fame/harunshimanto/harunshimanto/100-Days-Of-ML-Code/images/1)](https://sourcerer.io/fame/harunshimanto/harunshimanto/100-Days-Of-ML-Code/links/1)[![](https://sourcerer.io/fame/harunshimanto/harunshimanto/100-Days-Of-ML-Code/images/2)](https://sourcerer.io/fame/harunshimanto/harunshimanto/100-Days-Of-ML-Code/links/2)[![](https://sourcerer.io/fame/harunshimanto/harunshimanto/100-Days-Of-ML-Code/images/3)](https://sourcerer.io/fame/harunshimanto/harunshimanto/100-Days-Of-ML-Code/links/3)[![](https://sourcerer.io/fame/harunshimanto/harunshimanto/100-Days-Of-ML-Code/images/4)](https://sourcerer.io/fame/harunshimanto/harunshimanto/100-Days-Of-ML-Code/links/4)[![](https://sourcerer.io/fame/harunshimanto/harunshimanto/100-Days-Of-ML-Code/images/5)](https://sourcerer.io/fame/harunshimanto/harunshimanto/100-Days-Of-ML-Code/links/5)[![](https://sourcerer.io/fame/harunshimanto/harunshimanto/100-Days-Of-ML-Code/images/6)](https://sourcerer.io/fame/harunshimanto/harunshimanto/100-Days-Of-ML-Code/links/6)[![](https://sourcerer.io/fame/harunshimanto/harunshimanto/100-Days-Of-ML-Code/images/7)](https://sourcerer.io/fame/harunshimanto/harunshimanto/100-Days-Of-ML-Code/links/7)
