@@ -1,13 +1,17 @@
 <p align="center">
   <img src="https://github.com/harunshimanto/100-Days-Of-ML-Code/blob/master/InfoGraphs/Day9.png">
 </p>
+
+
 # Importing the libraries
+
 ```python
 import sys,tweepy,csv,re
 from textblob import TextBlob
 import matplotlib.pyplot as plt
 ```
 # Create sentiment analysis function
+
 ```python
 class SentimentAnalysis:
 
@@ -16,6 +20,7 @@ class SentimentAnalysis:
         self.tweetText = []
 ```
 # Authenticating of Twitter
+
 ```python
 def DownloadData(self):
         consumerKey ='consumerKey'
