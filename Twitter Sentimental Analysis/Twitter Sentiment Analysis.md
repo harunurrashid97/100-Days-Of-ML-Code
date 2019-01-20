@@ -1,18 +1,22 @@
 <p align="center">
   <img src="https://github.com/harunshimanto/100-Days-Of-ML-Code/blob/master/InfoGraphs/Day9.png">
 </p>
-#Importing the libraries
+# Importing the libraries
+```python
 import sys,tweepy,csv,re
 from textblob import TextBlob
 import matplotlib.pyplot as plt
-
-#Create sentiment analysis function
+```
+# Create sentiment analysis function
+```python
 class SentimentAnalysis:
 
     def __init__(self):
         self.tweets = []
         self.tweetText = []
-#Authenticating of Twitter
+```
+# Authenticating of Twitter
+```python
 def DownloadData(self):
         consumerKey ='consumerKey'
         consumerSecret = 'consumerSecret'
@@ -21,22 +25,27 @@ def DownloadData(self):
         auth = tweepy.OAuthHandler(consumerKey, consumerSecret)
         auth.set_access_token(accessToken, accessTokenSecret)
         api = tweepy.API(auth)
-
+```
 # Input for term to be searched and how many tweets to search
+```python
 searchTerm = input("Enter Keyword/Tag to search about: ")
 NoOfTerms = int(input("Enter how many tweets to search: "))
-
-#Searching for tweets
+```
+# Searching for tweets
+```python
         self.tweets = tweepy.Cursor(api.search, q=searchTerm, lang = "en").items(NoOfTerms)
-
-# Open/create a file to append data to
+```
+# Open/create a file to append data 
+```python
         csvFile = open('tweet.csv', 'a')
-
+```
 # Use csv writer
+```python
         csvWriter = csv.writer(csvFile)
 
-
+```
 # creating some variables to store info
+```python
         polarity = 0
         positive = 0
         wpositive = 0
@@ -45,11 +54,13 @@ NoOfTerms = int(input("Enter how many tweets to search: "))
         wnegative = 0
         snegative = 0
         neutral = 0
-
+```
 
 # Iterating through tweets fetched
+```python
         for tweet in self.tweets:
-#Append to temp so that we can store in csv later. I use encode UTF-8
+        
+# Append to temp so that we can store in csv later. I use encode UTF-8
             self.tweetText.append(self.cleanTweet(tweet.text).encode('utf-8'))
             analysis = TextBlob(tweet.text)
             polarity += analysis.sentiment.polarity  # adding up polarities to find the average later
@@ -69,12 +80,14 @@ NoOfTerms = int(input("Enter how many tweets to search: "))
             elif (analysis.sentiment.polarity > -1 and analysis.sentiment.polarity <= -0.6):
                 snegative += 1
 
-
+````
 # Write to csv and close csv file
+```python
         csvWriter.writerow(self.tweetText)
         csvFile.close()
-
+```
 # Finding average of how people are reacting
+```python
         positive = self.percentage(positive, NoOfTerms)
         wpositive = self.percentage(wpositive, NoOfTerms)
         spositive = self.percentage(spositive, NoOfTerms)
@@ -82,11 +95,13 @@ NoOfTerms = int(input("Enter how many tweets to search: "))
         wnegative = self.percentage(wnegative, NoOfTerms)
         snegative = self.percentage(snegative, NoOfTerms)
         neutral = self.percentage(neutral, NoOfTerms)
-
+```
 # Finding average reaction
+```python
         polarity = polarity / NoOfTerms
-
+```
 # Printing out data
+```python
         print("How people are reacting on " + searchTerm + " by analyzing " + str(NoOfTerms) + " tweets.")
         print()
         print("General Report: ")
@@ -117,17 +132,17 @@ NoOfTerms = int(input("Enter how many tweets to search: "))
         print(str(neutral) + "% people thought it was neutral")
 
         self.plotPieChart(positive, wpositive, spositive, negative, wnegative, snegative, neutral, searchTerm, NoOfTerms)
-
-
+````
     def cleanTweet(self, tweet):
  # Remove Links, Special Characters etc from tweet
+ ```python
         return ' '.join(re.sub("(@[A-Za-z0-9]+)|([^0-9A-Za-z \t]) | (\w +:\ / \ / \S +)", " ", tweet).split())
-
+```
  # Function to calculate percentage
+ ```python
     def percentage(self, part, whole):
         temp = 100 * float(part) / float(whole)
         return format(temp, '.2f')
-
     def plotPieChart(self, positive, wpositive, spositive, negative, wnegative, snegative, neutral, searchTerm, noOfSearchTerms):
         labels = ['Positive [' + str(positive) + '%]', 'Weakly Positive [' + str(wpositive) + '%]','Strongly Positive [' + str(spositive) + '%]', 'Neutral [' + str(neutral) + '%]',
                   'Negative [' + str(negative) + '%]', 'Weakly Negative [' + str(wnegative) + '%]', 'Strongly Negative [' + str(snegative) + '%]']
@@ -145,3 +160,4 @@ NoOfTerms = int(input("Enter how many tweets to search: "))
 if __name__== "__main__":
     sa = SentimentAnalysis()
     sa.DownloadData()
+````
