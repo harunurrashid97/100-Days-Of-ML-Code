@@ -2,6 +2,7 @@
 <p align="center">
   <img src="https://github.com/harunshimanto/100-Days-Of-ML-Code/blob/master/InfoGraphs/Day10.gif">
 </p>
+
 # Importing the libraries
 
 ```python
