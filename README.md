@@ -92,5 +92,15 @@ You can follow me on [@Medium](https://medium.com/@harunshimanto)for interesting
 
 **Link of Work**: [Article](https://goo.gl/tn4t8E) => [code](https://goo.gl/JwQQ8g)
 
+## Day 10 : Jan 22 , 2019 | [Support Vector Machine](https://www.linkedin.com/feed/update/urn:li:activity:6493492920488984576)
+
+<p align="center">
+  <img src="https://github.com/harunshimanto/100-Days-Of-ML-Code/blob/master/InfoGraphs/Day10.gif">
+</p>
+
+**Today's Progress** : Today I've spent many hours exploring on Support Vector Machine(SVM).
+
+**Link of Work**: [Article](https://goo.gl/gKvFKk) => [code](https://goo.gl/vjSCwP)
+
 # Contributing
 [![](https://sourcerer.io/fame/harunshimanto/harunshimanto/100-Days-Of-ML-Code/images/0)](https://sourcerer.io/fame/harunshimanto/harunshimanto/100-Days-Of-ML-Code/links/0)[![](https://sourcerer.io/fame/harunshimanto/harunshimanto/100-Days-Of-ML-Code/images/1)](https://sourcerer.io/fame/harunshimanto/harunshimanto/100-Days-Of-ML-Code/links/1)[![](https://sourcerer.io/fame/harunshimanto/harunshimanto/100-Days-Of-ML-Code/images/2)](https://sourcerer.io/fame/harunshimanto/harunshimanto/100-Days-Of-ML-Code/links/2)[![](https://sourcerer.io/fame/harunshimanto/harunshimanto/100-Days-Of-ML-Code/images/3)](https://sourcerer.io/fame/harunshimanto/harunshimanto/100-Days-Of-ML-Code/links/3)[![](https://sourcerer.io/fame/harunshimanto/harunshimanto/100-Days-Of-ML-Code/images/4)](https://sourcerer.io/fame/harunshimanto/harunshimanto/100-Days-Of-ML-Code/links/4)[![](https://sourcerer.io/fame/harunshimanto/harunshimanto/100-Days-Of-ML-Code/images/5)](https://sourcerer.io/fame/harunshimanto/harunshimanto/100-Days-Of-ML-Code/links/5)[![](https://sourcerer.io/fame/harunshimanto/harunshimanto/100-Days-Of-ML-Code/images/6)](https://sourcerer.io/fame/harunshimanto/harunshimanto/100-Days-Of-ML-Code/links/6)[![](https://sourcerer.io/fame/harunshimanto/harunshimanto/100-Days-Of-ML-Code/images/7)](https://sourcerer.io/fame/harunshimanto/harunshimanto/100-Days-Of-ML-Code/links/7)
