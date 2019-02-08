@@ -102,5 +102,15 @@ You can follow me on [@Medium](https://medium.com/@harunshimanto)for interesting
 
 **Link of Work**: [Article](https://goo.gl/gKvFKk) => [code](https://goo.gl/vjSCwP)
 
+## Day 11-13 : Feb 2,4,7 , 2019 | [A 3 day Python Bootcamp for ML Beginners](https://www.linkedin.com/feed/update/urn:li:activity:6498961828020916224)
+
+<p align="center">
+  <img src="https://github.com/harunshimanto/100-Days-Of-ML-Code/blob/master/InfoGraphs/Python bootcamp.jpg">
+</p>
+
+**Today's Progress** : A simple effort from me to make a Python bootcamp 3 Days for beginners who are enthusiastic about Machine Learning.
+
+**Link of Work**: [Article](https://goo.gl/fiyAzC) => [code](https://goo.gl/iF59Kw)
+
 # Contributing
 [![](https://sourcerer.io/fame/harunshimanto/harunshimanto/100-Days-Of-ML-Code/images/0)](https://sourcerer.io/fame/harunshimanto/harunshimanto/100-Days-Of-ML-Code/links/0)[![](https://sourcerer.io/fame/harunshimanto/harunshimanto/100-Days-Of-ML-Code/images/1)](https://sourcerer.io/fame/harunshimanto/harunshimanto/100-Days-Of-ML-Code/links/1)[![](https://sourcerer.io/fame/harunshimanto/harunshimanto/100-Days-Of-ML-Code/images/2)](https://sourcerer.io/fame/harunshimanto/harunshimanto/100-Days-Of-ML-Code/links/2)[![](https://sourcerer.io/fame/harunshimanto/harunshimanto/100-Days-Of-ML-Code/images/3)](https://sourcerer.io/fame/harunshimanto/harunshimanto/100-Days-Of-ML-Code/links/3)[![](https://sourcerer.io/fame/harunshimanto/harunshimanto/100-Days-Of-ML-Code/images/4)](https://sourcerer.io/fame/harunshimanto/harunshimanto/100-Days-Of-ML-Code/links/4)[![](https://sourcerer.io/fame/harunshimanto/harunshimanto/100-Days-Of-ML-Code/images/5)](https://sourcerer.io/fame/harunshimanto/harunshimanto/100-Days-Of-ML-Code/links/5)[![](https://sourcerer.io/fame/harunshimanto/harunshimanto/100-Days-Of-ML-Code/images/6)](https://sourcerer.io/fame/harunshimanto/harunshimanto/100-Days-Of-ML-Code/links/6)[![](https://sourcerer.io/fame/harunshimanto/harunshimanto/100-Days-Of-ML-Code/images/7)](https://sourcerer.io/fame/harunshimanto/harunshimanto/100-Days-Of-ML-Code/links/7)
