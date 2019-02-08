@@ -105,7 +105,7 @@ You can follow me on [@Medium](https://medium.com/@harunshimanto)for interesting
 ## Day 11-13 : Feb 2,4,7 , 2019 | [A 3 day Python Bootcamp for ML Beginners](https://www.linkedin.com/feed/update/urn:li:activity:6498961828020916224)
 
 <p align="center">
-  <img src="https://github.com/harunshimanto/100-Days-Of-ML-Code/blob/master/InfoGraphs/Python bootcamp.jpg">
+  <img src="https://github.com/harunshimanto/100-Days-Of-ML-Code/blob/master/InfoGraphs/Python bootcamp .jpg">
 </p>
 
 **Today's Progress** : A simple effort from me to make a Python bootcamp 3 Days for beginners who are enthusiastic about Machine Learning.
