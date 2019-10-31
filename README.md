@@ -113,4 +113,4 @@ You can follow me on [@Medium](https://medium.com/@harunshimanto)for interesting
 **Link of Work**: [Article](https://goo.gl/fiyAzC) => [code](https://goo.gl/iF59Kw)
 
 # Contributing
-<a href="https://sourcerer.io/harunshimanto"><img src="https://avatars2.githubusercontent.com/u/22985408?v=4" height="50px" width="50px" alt=""/></a>
+<a href="https://sourcerer.io/harunshimanto"><img src="https://sourcerer.io/icons/logo-sharing.svg"height="48px" alt="Sourcerer"></a>
